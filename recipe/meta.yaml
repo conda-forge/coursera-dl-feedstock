@@ -1,6 +1,6 @@
 {% set name = "coursera-dl" %}
-{% set version = "0.8.0" %}
-{% set sha256 = "31adb07092ffd384759280d94daad577a1255a51e95519ce74a2eaf36008722e" %}
+{% set version = "0.10.0" %}
+{% set sha256 = "0d00921310821a6b1d29c4e52bf406319cd3e7155d9be6b6a6a183b79ffdf821" %}
 
 package:
   name: {{ name|lower }}
