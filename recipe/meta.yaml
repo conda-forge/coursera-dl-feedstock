@@ -1,4 +1,4 @@
-{% set version = "0.11.4" %}
+{% set version = "0.11.5" %}
 
 package:
   name: coursera-dl
@@ -6,7 +6,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/c/coursera-dl/coursera-dl-{{ version }}.tar.gz
-  sha256: 8366ab3e22c712a3e7d4f944c8763ac6c5111210f73ce14f782d9bc24e2d8204
+  sha256: 66a84558dfcfcbdc487dcabcfc0d7c4a8569cc604b051b1d51bc95d52a369745
 
 build:
   number: 0
